@@ -11,7 +11,7 @@ This website provides information and resources reguarding Search Engine Optimiz
 
 ![johndallasmoore github io_challenge-1_](https://user-images.githubusercontent.com/121253666/226454041-f7dd97b3-6847-4acb-bf7b-1a0276b6401b.png)
 
-https://johndallasmoore.github.io/challenge-1/
+[Link to Deployment](https://johndallasmoore.github.io/challenge-1/)
 
 ## Credits
 Starter Code - KU Coding Bootcamp Staff
