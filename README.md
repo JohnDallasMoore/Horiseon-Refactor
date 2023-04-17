@@ -9,9 +9,9 @@ N/a
 ## Usage
 This website provides information and resources regarding Search Engine Optimization, Online Reputation Management and Social Media Marketing.  It provides educational material to help users understand these topics and other related resources to better understand factors surrounding them.  A link to the website and a screenshot of the active site are provided below:
 
-![johndallasmoore github io_challenge-1_](https://user-images.githubusercontent.com/121253666/226454041-f7dd97b3-6847-4acb-bf7b-1a0276b6401b.png)
+![Horiseon-Refactor](https://user-images.githubusercontent.com/121253666/226454041-f7dd97b3-6847-4acb-bf7b-1a0276b6401b.png)
 
-[Link to Deployment](https://johndallasmoore.github.io/challenge-1/)
+[Link to Deployment](https://johndallasmoore.github.io/Horiseon-Refactor/)
 
 ## Credits
 Starter Code - KU Coding Bootcamp Staff
